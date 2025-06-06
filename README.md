@@ -57,7 +57,26 @@
 
 ## 📂 Academic & Personal Projects
 
-Below are a few selected projects from my coursework and personal development. I’ll link the GitHub repos once they’re public.
+Below are a few selected projects from my coursework and personal development.
+
+### MyMarket (Java)
+> [MyMarket Repository](https://github.com/karaoulas/MyMarket)
+
+- **Description:**  
+  A Java-based application for simulating and managing a marketplace, featuring advanced object-oriented design and data management.
+- **Key Highlights:**  
+  - Implements core supermarket operations: inventory, orders, customers, and transactions.
+  - Emphasis on modularity, code quality, and documentation.
+  - Demonstrates use of Java collections, file I/O, and custom data structures.
+- **Tech Stack:** Java, OOP, File I/O, Collections Framework.
+
+<details>
+  <summary>View Demo / Screenshots</summary>
+  
+  *(Add screenshots or a link to a short demo here.)*  
+</details>
+
+---
 
 ### Distributed Messaging System (Java RMI)
 > A fully functional distributed messaging application built with Java RMI.
@@ -100,19 +119,6 @@ Below are a few selected projects from my coursework and personal development. I
   - Designed entity-relationship model covering products, orders, suppliers, and customers.  
   - Developed complex SQL queries for sales analytics and inventory management.  
 - **Tech Stack:** MySQL, SQL, ER Modeling.
-
----
-
-### E-Shop Desktop Application (Java)
-> A Java-based desktop app for supermarket e-commerce operations.
-
-- **Description:**  
-  Built a desktop application to manage products and orders in an online supermarket scenario.  
-- **Key Highlights:**  
-  - Admin features: add/edit/delete products.  
-  - Customer features: search products, add to cart, complete checkout.  
-  - Data persistence via local file I/O.  
-- **Tech Stack:** Java SE, Swing (or JavaFX), File I/O.
 
 ---
 
