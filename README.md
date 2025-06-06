@@ -148,6 +148,16 @@ Below are a few selected projects from my coursework and personal development.
 
 ---
 
+### DigVer — Digital Credential Issuer & Verifier ([View Repo](https://github.com/karaoulas/DigVer))
+
+A Flask web app simulating a digital credential ecosystem (inspired by eIDAS).  
+Features: asymmetric key management, signed JSON credentials, expiry checks, QR code sharing, and a modern Bootstrap UI.
+
+<div align="center">
+  <img src="https://github.com/karaoulas/DigVer/raw/main/Screenshot%202025-06-06%20185318.png" width="400" alt="Issue Credential Screenshot"/>
+  <img src="https://github.com/karaoulas/DigVer/raw/main/Screenshot%202025-06-06%20185415.png" width="400" alt="Verify Credential Screenshot"/>
+</div>
+
 ## 💼 Professional Experience
 
 ### Insurance Office Collaboration (2022 – 2024)
