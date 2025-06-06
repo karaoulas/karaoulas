@@ -70,11 +70,7 @@ Below are a few selected projects from my coursework and personal development.
   - Demonstrates use of Java collections, file I/O, and custom data structures.
 - **Tech Stack:** Java, OOP, File I/O, Collections Framework.
 
-<details>
-  <summary>View Demo / Screenshots</summary>
-  
-  *(Add screenshots or a link to a short demo here.)*  
-</details>
+
 
 ---
 
@@ -89,11 +85,7 @@ Below are a few selected projects from my coursework and personal development.
   - Leveraged **serialization** to transmit message objects.  
 - **Tech Stack:** Java, Java RMI, Multithreading, Authentication.
 
-<details>
-  <summary>View Demo / Screenshots</summary>
-  
-  *(Add screenshots or a link to a short demo here.)*  
-</details>
+
 
 ---
 
