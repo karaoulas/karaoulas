@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ABDAC&background=FFFFFF00&width=500&lines=Hi+there+👋+I'm+Michalis+Karaoulas;Informatics+Student+|+ML+|+AI+|+Cloud+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ABDAC&background=FFFFFF00&width=500&lines=Hi+there+👋+I'm+Michalis+Karaoulas;Computer+Science+Student+|+ML+|+AI+|+Cloud+Enthusiast"
     alt="Typing SVG"
   />
 </div>
@@ -14,11 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently pursuing a BSc in Informatics at Aristotle University of Thessaloniki (expected graduation: 2025).  
-- 🌱 I specialize in programming and data analysis, with a strong interest in **Machine Learning**, **Artificial Intelligence** and **Cloud Technologies**.  
+- 🔭 I’m currently pursuing a BSc in Computer Science at Aristotle University of Thessaloniki (expected graduation: 2025).  
+- 🌱 I specialize in programming and data analysis, with a strong interest in **Machine Learning**, **Artificial Intelligence**, and **Cloud Technologies**.  
 - 📫 How to reach me:  
   - Email: [mixaliskappa@gmail.com](mailto:mixaliskappa@gmail.com)  
-  - LinkedIn: [Michalis Karaoulas](https://www.linkedin.com/in/michalis-karaoulas) *(placeholder — update if needed)*  
 - 🌐 Languages:  
   - English (C2)  
   - German (B2)  
@@ -125,9 +124,9 @@ Below are a few selected projects from my coursework and personal development. I
 - **Key Highlights:**  
   - XML parsing with Python’s built-in libraries.  
   - Data manipulation using **pandas**.  
-  - Visualizations created with **Matplotlib** and **Seaborn**.  
+  - Visualizations created with **Matplotlib**.  
   - Built a **Random Forest** model for basic forecasting.  
-- **Tech Stack:** Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn.
+- **Tech Stack:** Python, pandas, NumPy, Matplotlib, scikit-learn.
 
 ---
 
@@ -155,7 +154,7 @@ Below are a few selected projects from my coursework and personal development. I
 ## 🎓 Education
 
 **Aristotle University of Thessaloniki**  
-BSc in Informatics (Expected Graduation: 2025)
+BSc in Computer Science (Expected Graduation: 2025)
 
 ---
 
@@ -175,17 +174,10 @@ BSc in Informatics (Expected Graduation: 2025)
   <a href="mailto:mixaliskappa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/michalis-karaoulas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Add other social links if applicable -->
 </div>
 
 ---
 
-> “An investment in knowledge pays the best interest.”  
-> – **Benjamin Franklin**
-
 <!--
-**mixaliskappa/mixaliskappa** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
+**karaoulas/karaoulas** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 -->
