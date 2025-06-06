@@ -130,19 +130,6 @@ Below are a few selected projects from my coursework and personal development.
 
 ---
 
-## 💼 Professional Experience
-
-### Insurance Office Collaboration (2022 – 2024)
-> https://insurancekaraoulas.gr
-
-- Supported management and analysis of insurance contracts.  
-- Developed automation tools for process optimization and report generation.  
-- Performed data analysis and visualization of statistical metrics.  
-- Utilized Bluebyte software for administrative tasks and data entry.  
-
----
-
-...
 ### FlowerPred — Flower Classifier Web App (Python, Flask)
 > [FlowerPred Repository](https://github.com/karaoulas/FlowerPred)
 
@@ -160,6 +147,21 @@ Below are a few selected projects from my coursework and personal development.
 - **Tech Stack:** Python, Flask, Pillow, transformers, Bootstrap 5.
 
 ---
+
+## 💼 Professional Experience
+
+### Insurance Office Collaboration (2022 – 2024)
+> https://insurancekaraoulas.gr
+
+- Supported management and analysis of insurance contracts.  
+- Developed automation tools for process optimization and report generation.  
+- Performed data analysis and visualization of statistical metrics.  
+- Utilized Bluebyte software for administrative tasks and data entry.  
+
+---
+
+...
+
 
 ## 📈 GitHub Stats
 
