@@ -142,6 +142,25 @@ Below are a few selected projects from my coursework and personal development.
 
 ---
 
+...
+### FlowerPred — Flower Classifier Web App (Python, Flask)
+> [FlowerPred Repository](https://github.com/karaoulas/FlowerPred)
+
+- **Description:**  
+  An intuitive web application that classifies flower images. Users can upload or drag-and-drop a flower photo to receive instant predictions, in both Greek and English.
+
+- **Key Highlights:**  
+  - Multilingual support (English & Greek).
+  - Shows top-3 predictions with confidence percentages.
+  - Keeps recent prediction history (up to 5 images).
+  - Allows copying or downloading results.
+  - Responsive, modern UI using Bootstrap.
+  - Utilizes a Hugging Face image classification model.
+
+- **Tech Stack:** Python, Flask, Pillow, transformers, Bootstrap 5.
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
