@@ -75,6 +75,7 @@ Below are a few selected projects from my coursework and personal development.
 ---
 
 ### Distributed Messaging System (Java RMI)
+> [JavaRMI Repository](https://github.com/karaoulas/JavaRMI)
 > A fully functional distributed messaging application built with Java RMI.
 
 - **Description:**  
