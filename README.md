@@ -133,7 +133,7 @@ Below are a few selected projects from my coursework and personal development.
 ## 💼 Professional Experience
 
 ### Insurance Office Collaboration (2022 – 2024)
-> Internship / Part-Time Developer
+> https://insurancekaraoulas.gr
 
 - Supported management and analysis of insurance contracts.  
 - Developed automation tools for process optimization and report generation.  
