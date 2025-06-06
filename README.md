@@ -116,6 +116,7 @@ Below are a few selected projects from my coursework and personal development.
 ---
 
 ### Insurance Contracts Analysis System (Python)
+>> [Insurance Repository](https://github.com/karaoulas/Insurance)
 > A data analysis pipeline for processing insurance contract XML files.
 
 - **Description:**  
