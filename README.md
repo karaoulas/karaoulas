@@ -168,17 +168,6 @@ Features: asymmetric key management, signed JSON credentials, expiry checks, QR 
 - Performed data analysis and visualization of statistical metrics.  
 - Utilized Bluebyte software for administrative tasks and data entry.  
 
----
-
-...
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karaoulas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoulas&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
